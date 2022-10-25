@@ -1,0 +1,19 @@
+{
+  "name": "front",
+  "version": "0.0.0",
+  "description": "front",
+  "main": "front.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSAURUSS/FRONT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSAURUSS/FRONT/issues"
+  },
+  "homepage": "https://github.com/SSAURUSS/FRONT#readme"
+}
